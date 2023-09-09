@@ -1,7 +1,4 @@
-console.log('perceptron')
-
-
-class Perceptron {
+export default class Perceptron {
     numberOfInputs: number;
     weights: number[];
     learningRate: number;
@@ -44,10 +41,10 @@ class Perceptron {
         }
     }
 
-}
+    printWeights() {
+        console.log(this.weights)
+    }
 
-let perceptron = new Perceptron(3, 0.5);
-const inputs = [1, 0, 1];
-console.log(perceptron.feedForward(inputs));
+}
 
 
