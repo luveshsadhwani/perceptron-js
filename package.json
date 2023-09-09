@@ -4,7 +4,7 @@
   "description": "The simplest neural network, invented in 1957 by Frank Rosenblatt.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon perceptron.ts"
+    "start": "nodemon modelfit.ts"
   },
   "author": "",
   "license": "ISC",
