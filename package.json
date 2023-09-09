@@ -1,0 +1,15 @@
+{
+  "name": "perceptron",
+  "version": "1.0.0",
+  "description": "The simplest neural network, invented in 1957 by Frank Rosenblatt.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon perceptron.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1"
+  }
+}
