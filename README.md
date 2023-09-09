@@ -1,7 +1,7 @@
 # Perceptron JS
 The simplest neural network, invented in 1957 by Frank Rosenblatt.
 
-Code is based on (Chapter 10: Neutral Networks)[https://natureofcode.com/book/chapter-10-neural-networks/] in "The Nature Of Code" by Daniel Shiffman.
+Code is based on [Chapter 10: Neutral Networks](https://natureofcode.com/book/chapter-10-neural-networks/) in "The Nature Of Code" by Daniel Shiffman.
 
 Run on Node 18.16.1
 
