@@ -15,6 +15,9 @@ Classes can't have const variables. These must be declared in the constructor.
 
 ## Learnings
 - Declare class property types in the constructor
+- This simple example can converge pretty quickly
+- TO log the "cost" or error, do retrieve the feedForward first before running train
+- Lower training rate can definitely slow down the convergence, unless the initial weights happen to be good
 
 ## Perceptron Guessing
 Adjusted Weight = Weight + Error * Input * Learning Rate
